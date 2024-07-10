@@ -4,7 +4,8 @@
     android:layout_height="wrap_content"
     android:layout_marginBottom="15dp"
     android:orientation="horizontal"
-    android:padding="15dp">
+    android:padding="15dp"
+    android:background="@drawable/item">
 
     <ImageView
         android:id="@+id/Foto"
